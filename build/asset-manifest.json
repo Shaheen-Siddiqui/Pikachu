@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pikachu/static/css/main.e86f8d31.css",
+    "main.js": "/Pikachu/static/js/main.5888aa1f.js",
+    "index.html": "/Pikachu/index.html",
+    "main.e86f8d31.css.map": "/Pikachu/static/css/main.e86f8d31.css.map",
+    "main.5888aa1f.js.map": "/Pikachu/static/js/main.5888aa1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e86f8d31.css",
+    "static/js/main.5888aa1f.js"
+  ]
+}
