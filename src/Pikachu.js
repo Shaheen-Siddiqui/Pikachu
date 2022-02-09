@@ -7,7 +7,7 @@ const [name,setName]=useState("Pokemon!");
 const [moves,setMoves]=useState(30)
 
 useEffect(()=>{
-  const  gettingData = async ()=> {
+    const  gettingData = async ()=> {
     const response = await axios.get(`https://pokeapi.co/api/v2/pokemon/${num}`)
     setName(response.data.name);
     setMoves(response.data.name.length);
